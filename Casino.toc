@@ -1,0 +1,5 @@
+## Interface : 50400
+## Title : Gambling 
+## Author : Lamz
+## Notes : Addon - WOW Classic - Casino
+## Version : 1.0
